@@ -1,57 +1,67 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/156326103?v=4" width="160" style="border-radius:50%; border: 3px solid #00b4d8; box-shadow: 0 0 20px rgba(0,180,216,0.3);" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3500&pause=1200&color=00B4D8&center=true&vCenter=true&width=520&lines=Hi%2C%20I'm%20Likith;Building%20practical%20tools%20with%20code%2C%20AI%20and%20automation;Focused%20on%20simple%2C%20effective%20solutions" alt="Typing SVG" />
-</p>
-
-<p align="center" style="margin: 16px 0; color: #a5b4fc;">
-  I enjoy creating functional software, automating workflows, and experimenting with AI-driven ideas — always iterating toward cleaner, more thoughtful results.
-</p>
-
-<div align="center" style="margin: 32px 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Likk18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=7c3aed&text_color=cccccc&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Likk18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=cccccc&border_radius=10" width="38%" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Likk18&theme=tokyonight&hide_border=true&background=0d1117&stroke=00b4d8&ring=7c3aed&fire=ff6b6b&currStreakNum=00b4d8&sideNums=cccccc&currStreakLabel=7c3aed&sideLabels=00b4d8&dates=cccccc&border_radius=10" />
+  <img src="https://avatars.githubusercontent.com/u/156326103?v=4" width="220" style="border-radius:50%; box-shadow: 0 0 60px #00f7ff, 0 0 30px #7b00ff;" />
+  <br><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Likith;Building+practical+tools+with+AI+and+automation;Creating+simple%2C+effective+solutions" alt="Typing SVG" />
 </p>
 
 ---
 
-### About
+I'm a curious builder of practical tools and intelligent systems —  
+working at the intersection of **software**, **automation**, and **artificial intelligence**.  
+Driven by iteration, experimentation, and making things work beautifully.
 
-Curiosity drives my work: turning ideas into reliable systems through experimentation and refinement.  
-Currently focused on AI integration, automation pipelines, and intuitive user tools.
+**Currently focused on:** AI-powered creativity, real-time data tools, spatial and interactive applications
 
 ---
 
 ### Tech Stack
 
-<p align="center" style="margin: 24px 0;">
-  <img src="https://skillicons.dev/icons?i=python,flask,js,react,postgres,git,docker&perline=7" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,js,react,postgres,git,fastapi,docker,linux,aws,gcp,nodejs,tensorflow,pytorch&perline=7" />
 </p>
 
 ---
 
-### Selected Work
+### Projects
 
-**DJ Assistant**  
-Helps DJs build intelligent track playlists using Spotify data and analysis.  
-[GitHub →](https://github.com/Likk18/dj-assistant)
-
-**VibeSpace**  
-AI platform for designing and visualizing room layouts with real-time previews.  
-[GitHub →](https://github.com/Likk18/vibespace)
-
-**IKEA Furniture Dataset Pipeline**  
-Automated pipeline for data collection, processing, and classification of furniture items.  
-[GitHub →](https://github.com/Likk18/ikea-furniture-pipeline)
+<table align="center" style="border: none; background: transparent;">
+  <tr>
+    <td align="center">
+      <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="180"/><br>
+      <b>DJ Assistant</b><br>
+      <sub>AI-curated track sets using Spotify data and analysis</sub><br>
+      <a href="https://github.com/Likk18/dj-assistant">→ GitHub</a>
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/l41lLuYtK6WJdvN6M/giphy.gif" width="180"/><br>
+      <b>VibeSpace</b><br>
+      <sub>AI-powered platform for room design and visualization</sub><br>
+      <a href="https://github.com/Likk18/vibespace">→ GitHub</a>
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="180"/><br>
+      <b>Mood Muffin</b><br>
+      <sub>AI tool for mood tracking, insights, and personalized suggestions</sub><br>
+      <a href="https://github.com/Likk18/mood-muffin">→ GitHub</a> <!-- update link if different -->
+    </td>
+  </tr>
+</table>
 
 ---
 
-<p align="center" style="margin-top: 48px; font-size: 0.9em; color: #94a3b8;">
-  Bengaluru, India • Always open to interesting ideas and collaborations
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Likk18&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=7b00ff&text_color=9d9d9d&border_radius=18&ring=00f7ff&ring_color=7b00ff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Likk18&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=9d9d9d&border_radius=18" width="38%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Likk18&theme=radical&hide_border=true&background=0d1117&stroke=00f7ff&ring=7b00ff&fire=FF4500&currStreakNum=00f7ff&sideNums=9d9d9d&currStreakLabel=7b00ff&sideLabels=00f7ff&dates=9d9d9d&border_radius=18" />
+</p>
+
+---
+
+<p align="center">
+  <sub>Built with curiosity and code • Bengaluru, India</sub>
 </p>
