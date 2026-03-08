@@ -1,11 +1,22 @@
-### Likith
+### Hi, I'm Likith 👋
 
-Curious builder who enjoys turning rough ideas into working systems. Most of my learning comes from **building, testing, breaking, and refining** until something genuinely useful emerges.
+Hey — I’m a builder who enjoys turning ideas into working systems. I like exploring how software, automation, and intelligent tools can simplify complex problems and create practical solutions. Most of my learning happens through experimentation — building things, improving them, and constantly refining how systems work.
 
-I care about **clean execution, fast iteration, and thoughtful system design**. I'm particularly interested in how **software, automation, and intelligent systems** can simplify complex problems and create smooth user experiences.
+I’m particularly interested in thoughtful system design, fast iteration, and creating tools that feel simple to use but are powerful underneath.
 
-Technologies I primarily work with:
+---
+
+### About Me 🚀
+
+⚡ Builder mindset — ideas → systems → improvements  
+🧠 Curious about automation, intelligent systems, and practical software  
+🛠 I enjoy experimenting, iterating quickly, and refining systems  
+🎯 Focused on writing clean, maintainable, and efficient code  
+
+---
+
+### Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,react,flask,postgres,git&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,flask,postgres,git" />
 </p>
