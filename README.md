@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Likith Bhaskar</h1>
 
-<!--
-**Likk18/Likk18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+AI Developer • Full Stack Builder • Creative Tools
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Building AI and web projects
+- Currently working on **DJ Assistant**
+- Interested in **machine learning, automation, and product design**
+
+---
+
+## Tech Stack
+
+![Skills](https://skillicons.dev/icons?i=python,flask,js,react,postgres,git)
+
+---
+
+## Projects
+
+### DJ Assistant
+A tool that helps DJs generate track sets using Spotify data.
+
+### VibeSpace
+AI-powered platform to help users design and visualize rooms.
+
+### IKEA Furniture Dataset Pipeline
+Automated dataset pipeline for furniture classification.
+
+---
+
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Likk18&show_icons=true&theme=tokyonight)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Likk18&layout=compact&theme=tokyonight)
+
+---
+
+## GitHub Streak
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Likk18&theme=tokyonight)
+
+---
+
+## Visitor Count
+
+![](https://komarev.com/ghpvc/?username=Likk18)
