@@ -8,9 +8,7 @@ AI Developer • Full Stack Builder • Creative Tools
 
 ## About Me
 
-- Building AI and web projects
-- Currently working on **DJ Assistant**
-- Interested in **machine learning, automation, and product design**
+I like building practical tools and experimenting with ideas that combine software, automation, and AI. I focus on creating solutions that are simple, functional, and thoughtfully designed. Most of my work is driven by curiosity, learning through experimentation, and improving systems through iteration.
 
 ---
 
