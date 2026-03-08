@@ -20,3 +20,7 @@ I’m particularly interested in thoughtful system design, fast iteration, and c
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,react,flask,postgres,git" />
 </p>
+
+### Contributions
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Likk18&theme=tokyonight&hide_border=true)
