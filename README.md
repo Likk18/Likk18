@@ -23,12 +23,11 @@ I’m particularly interested in thoughtful system design, fast iteration, and c
 
 ---
 
-
 ### Contributions
 
 <p>
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Likk18&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffd166&icon_color=f4a261&text_color=ffffff" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Likk18&theme=dark&hide_border=true&background=0d1117&ring=ffd166&fire=f4a261&currStreakNum=ffd166&sideNums=ffffff&currStreakLabel=f4a261&sideLabels=ffd166&dates=aaaaaa" 
     width="100%" 
   />
 </p>
