@@ -58,7 +58,7 @@ From AI-curated experiences to automation pipelines, I focus on iteration and ma
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Likk18&theme=radical&hide_border=true&background=0d1117&stroke=00ffff&ring=ff00ff&fire=ff6b6b&currStreakNum=00ffff&sideNums=cdd6f4&currStreakLabel=ff00ff&sideLabels=00ffff&dates=cdd6f4&border_radius=16" width="65%"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Likk18&theme=radical&hide_border=true&background=0d1117&stroke=00ffff&ring=ff00ff&fire=ff6b6b&currStreakNum=00ffff&sideNums=cdd6f4&currStreakLabel=ff00ff&sideLabels=00ffff&dates=cdd6f4&border_radius=16" width="65%"/>
 </p>
 
 <p align="center" style="margin-top:50px; color:#88ffff; font-size:1em; opacity:0.85;">
