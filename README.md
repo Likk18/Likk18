@@ -1,4 +1,4 @@
-### Hi, I'm Likith 👋
+### Hi, I'm Likith 
 
 Hey — I’m a builder who enjoys turning ideas into working systems. I like exploring how software, automation, and intelligent tools can simplify complex problems and create practical solutions. Most of my learning happens through experimentation — building things, improving them, and constantly refining how systems work.
 
