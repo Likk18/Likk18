@@ -1,6 +1,6 @@
 <p align="center">
-  <!-- Immersive neon gamer-trader fusion header – no words, just vibe -->
-  <img src="https://media.giphy.com/media/l0MYt5jPR5tr0T2c0/giphy.gif" width="100%" style="max-width:900px; border-radius:16px; box-shadow:0 0 80px #00ffff, 0 0 40px #ff00ff; margin-bottom:20px;" alt="Neon gaming setup with pulsing charts" />
+  <!-- Neon cyberpunk header vibe – immersive, no words needed -->
+  <img src="https://media.giphy.com/media/A9Lbvgza45YFgY3DM0/giphy.gif" width="100%" style="max-width:900px; border-radius:16px; box-shadow:0 0 80px #00ffff, 0 0 40px #ff00ff; margin-bottom:20px;" alt="Neon cyberpunk city pulse" />
 </p>
 
 <p align="center" style="font-size:1.1em; color:#88ffff; margin:24px 0; opacity:0.9;">
@@ -9,7 +9,7 @@
 </p>
 
 ### About
-I build things that solve real problems — cleanly, efficiently, and with a bit of flair.
+I build things that solve real problems — cleanly, efficiently, and with a bit of flair.  
 From AI-curated experiences to automation pipelines, I focus on iteration and making tech feel intuitive.
 
 ### Currently
@@ -26,19 +26,19 @@ From AI-curated experiences to automation pipelines, I focus on iteration and ma
 <table align="center" style="border:none; background:transparent; width:100%;">
   <tr>
     <td align="center">
-      <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="200" style="border-radius:8px; box-shadow:0 0 20px rgba(0,255,255,0.3);"/><br>
+      <img src="https://media.giphy.com/media/l0MYt5jPR5tr0T2c0/giphy.gif" width="200" style="border-radius:8px; box-shadow:0 0 20px rgba(0,255,255,0.3);"/><br>
       <b>DJ Assistant</b><br>
       <sub style="color:#aaffff;">AI-powered track set generation from Spotify data</sub><br>
       <a href="https://github.com/Likk18/dj-assistant" style="color:#00ffff; text-decoration:none; font-weight:bold;">→ Repo</a>
     </td>
     <td align="center">
-      <img src="https://media.giphy.com/media/l41lLuYtK6WJdvN6M/giphy.gif" width="200" style="border-radius:8px; box-shadow:0 0 20px rgba(0,255,255,0.3);"/><br>
+      <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="200" style="border-radius:8px; box-shadow:0 0 20px rgba(0,255,255,0.3);"/><br>
       <b>VibeSpace</b><br>
       <sub style="color:#aaffff;">AI room designer & visualizer</sub><br>
       <a href="https://github.com/Likk18/vibespace" style="color:#00ffff; text-decoration:none; font-weight:bold;">→ Repo</a>
     </td>
     <td align="center">
-      <img src="https://media.giphy.com/media/3o6Zt6KHxJTbXCnSvu/giphy.gif" width="200" style="border-radius:8px; box-shadow:0 0 20px rgba(0,255,255,0.3);"/><br>
+      <img src="https://media.giphy.com/media/3o7TKsQ8J2y5kXw1G8/giphy.gif" width="200" style="border-radius:8px; box-shadow:0 0 20px rgba(0,255,255,0.3);"/><br>
       <b>Mood Muffin</b><br>
       <sub style="color:#aaffff;">Mood tracking with AI insights & recommendations</sub><br>
       <a href="https://github.com/Likk18/mood-muffin" style="color:#00ffff; text-decoration:none; font-weight:bold;">→ Repo</a>
