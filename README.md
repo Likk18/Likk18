@@ -1,18 +1,12 @@
 <p align="center">
-  <img src="[PASTE_IMAGE_LINK_HERE](https://avatars.githubusercontent.com/u/156326103?v=4&size=64)" width="150" style="border-radius:50%">
+  <img src="https://avatars.githubusercontent.com/u/156326103?v=4" width="180" style="border-radius:50%" />
 </p>
 
-<h1 align="center">Hi, I'm Likith Bhaskar</h1>
-<p align="center">
-AI Developer • Full Stack Builder • Creative Tools
-</p>
-
-<h1 align="center">Hi, I'm Likith Bhaskar</h1>
+<h1 align="center">Hi, I'm Likith</h1>
 
 <p align="center">
-AI Developer • Full Stack Builder • Creative Tools
+I enjoy building practical tools and experimenting with ideas that combine software, automation, and AI.
 </p>
-
 ---
 
 ## About Me
