@@ -23,10 +23,12 @@ I’m particularly interested in thoughtful system design, fast iteration, and c
 
 ---
 
+
 ### Contributions
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Likk18&bg_color=0d1117&color=ffd166&line=ffd166&point=f4a261&area=true&hide_border=true)
-
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Likk18&theme=dark&hide_border=true&background=0d1117&ring=ffd166&fire=f4a261&currStreakNum=ffd166&sideNums=ffffff&currStreakLabel=f4a261&sideLabels=ffd166&dates=aaaaaa" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Likk18&theme=dark&hide_border=true&background=0d1117&ring=ffd166&fire=f4a261&currStreakNum=ffd166&sideNums=ffffff&currStreakLabel=f4a261&sideLabels=ffd166&dates=aaaaaa" 
+    width="100%" 
+  />
 </p>
