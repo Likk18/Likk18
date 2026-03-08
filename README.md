@@ -1,12 +1,6 @@
 <p align="center">
-  <!-- Subtle animated gradient header for cool intro vibe -->
-  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=Likith&template=neon-arcade&height=120&color1=00ffff&color2=ff00ff&speed=8" width="100%" style="max-width:800px; border-radius:12px; margin-bottom:20px;" />
-</p>
-
-<p align="center">
   <img src="https://avatars.githubusercontent.com/u/156326103?v=4" width="240" style="border-radius:50%; border:4px solid #00ffff; box-shadow:0 0 90px #00ffff, 0 0 50px #ff00ff, inset 0 0 20px #00ffff;" />
-  <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00FFFF&center=true&vCenter=true&width=680&lines=Hey%2C+I'm+Likith;AI+%26+Automation+Builder;Code+That+Actually+Works;Iterate+Relentlessly" alt="Typing SVG" />
+  <br>
 </p>
 
 <p align="center" style="font-size:1.1em; color:#88ffff; margin:24px 0; opacity:0.9;">
