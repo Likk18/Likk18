@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Developer;Full+Stack+Developer;Building+Creative+Projects)](https://git.io/typing-svg)
 <h1 align="center">Hi, I'm Likith Bhaskar</h1>
 
 <p align="center">
