@@ -18,7 +18,7 @@ I’m particularly interested in thoughtful system design, fast iteration, and c
 ### Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,react,flask,aws" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,flask,mongodb,aws" />
 </p>
 
 ---
