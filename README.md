@@ -1,60 +1,43 @@
 <p align="center">
-  <!-- Neon cyberpunk header vibe – immersive, no words needed -->
-  <img src="https://media.giphy.com/media/A9Lbvgza45YFgY3DM0/giphy.gif" width="100%" style="max-width:900px; border-radius:16px; box-shadow:0 0 80px #00ffff, 0 0 40px #ff00ff; margin-bottom:20px;" alt="Neon cyberpunk city pulse" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&pause=1200&color=00FFFF&center=true&vCenter=true&width=500&lines=Hey%2C%20I'm%20Likith;Building%20AI%20%26%20Automation%20Tools;Clean%20Code%20%7C%20Fast%20Execution" alt="Typing SVG" />
 </p>
 
-<p align="center" style="font-size:1.1em; color:#88ffff; margin:24px 0; opacity:0.9;">
-  Practical tools • Intelligent systems • Creative automation<br>
-  Bengaluru-based • Curiosity-driven • Always improving
+<p align="center" style="font-size:1.05em; color:#a5b4fc; margin:16px 0;">
+  Bengaluru • AI tools • Iteration addict
 </p>
 
 ### About
-I build things that solve real problems — cleanly, efficiently, and with a bit of flair.  
-From AI-curated experiences to automation pipelines, I focus on iteration and making tech feel intuitive.
+I ship practical software that solves real problems — AI-driven, automated, and thoughtfully designed.  
+Focused on clean architecture, fast iteration, and tools people actually use.
 
-### Currently
-- 🔭 Experimenting with AI integrations in creative & practical apps
-- 🌱 Refining scalable workflows and modern stacks
-- 💡 Interested in real-time data, spatial tools, mood/intent systems
-
-### Tech Stack
+### Tech
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,js,react,postgres,git&perline=6" style="filter:drop-shadow(0 0 10px #00ffff) drop-shadow(0 0 5px #ff00ff);" />
+  <img src="https://skillicons.dev/icons?i=python,flask,js,react,postgres,git&perline=6" style="filter:drop-shadow(0 0 8px #00ffff) drop-shadow(0 0 4px #ff00ff);" />
 </p>
 
 ### Projects
-<table align="center" style="border:none; background:transparent; width:100%;">
-  <tr>
-    <td align="center">
-      <img src="https://media.giphy.com/media/l0MYt5jPR5tr0T2c0/giphy.gif" width="200" style="border-radius:8px; box-shadow:0 0 20px rgba(0,255,255,0.3);"/><br>
-      <b>DJ Assistant</b><br>
-      <sub style="color:#aaffff;">AI-powered track set generation from Spotify data</sub><br>
-      <a href="https://github.com/Likk18/dj-assistant" style="color:#00ffff; text-decoration:none; font-weight:bold;">→ Repo</a>
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="200" style="border-radius:8px; box-shadow:0 0 20px rgba(0,255,255,0.3);"/><br>
-      <b>VibeSpace</b><br>
-      <sub style="color:#aaffff;">AI room designer & visualizer</sub><br>
-      <a href="https://github.com/Likk18/vibespace" style="color:#00ffff; text-decoration:none; font-weight:bold;">→ Repo</a>
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/3o7TKsQ8J2y5kXw1G8/giphy.gif" width="200" style="border-radius:8px; box-shadow:0 0 20px rgba(0,255,255,0.3);"/><br>
-      <b>Mood Muffin</b><br>
-      <sub style="color:#aaffff;">Mood tracking with AI insights & recommendations</sub><br>
-      <a href="https://github.com/Likk18/mood-muffin" style="color:#00ffff; text-decoration:none; font-weight:bold;">→ Repo</a>
-    </td>
-  </tr>
-</table>
+- **VC Deal Flow**  
+  AI-powered tool for analyzing venture capital deals, trends, and opportunities.  
+  [→ Repo](https://github.com/Likk18/vcccc)  <!-- update actual repo name/link -->
 
-### GitHub Activity
+- **VibeSpace**  
+  AI platform for room design and real-time visualization.  
+  [→ Repo](https://github.com/Likk18/vibespace)
+
+- **Mood Muffin**  
+  Mood tracking with AI-generated insights and recommendations.  
+  [→ Repo](https://github.com/Likk18/mood-muffin)
+
+### Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Likk18&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff00ff&text_color=cdd6f4&border_radius=16&ring=00ffff&ring_color=ff00ff" width="52%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Likk18&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=cdd6f4&border_radius=16" width="40%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Likk18&theme=radical&hide_border=true&background=0d1117&stroke=00ffff&ring=ff00ff&fire=ff6b6b&currStreakNum=00ffff&sideNums=cdd6f4&currStreakLabel=ff00ff&sideLabels=00ffff&dates=cdd6f4&border_radius=16" width="65%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Likk18&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff00ff&text_color=cdd6f4&border_radius=12&ring=00ffff&ring_color=ff00ff" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Likk18&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=cdd6f4&border_radius=12" width="38%"/>
 </p>
 
-<p align="center" style="margin-top:50px; color:#88ffff; font-size:1em; opacity:0.85;">
-  Bengaluru • Build. Break. Improve. Repeat.
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Likk18&theme=radical&hide_border=true&background=0d1117&stroke=00ffff&ring=ff00ff&fire=ff6b6b&currStreakNum=00ffff&sideNums=cdd6f4&currStreakLabel=ff00ff&sideLabels=00ffff&dates=cdd6f4&border_radius=12" width="60%"/>
+</p>
+
+<p align="center" style="margin-top:40px; color:#94a3b8; font-size:0.95em;">
+  Keep shipping.
 </p>
